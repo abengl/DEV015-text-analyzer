@@ -1,19 +1,10 @@
 *{
     margin: 0;
     padding: 0;
-    /*box-sizing: border-box;*/
 }
 
 body{
     width: 100%;
-  /*
-    font-family:Arial, Helvetica, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    background-color: gainsboro;
-    color: #333333;
-    position: relative;
-  */
     min-height: 100vh;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
@@ -71,7 +62,6 @@ textarea[name="user-input"]{
     border-radius: 20px;
     font-family: 'Poppins', sans-serif;
     resize: none;
-    /*IE puts a vertical scrollbar by default on all textareas. auto - Similar to scroll, but it adds scrollbars only when necessary*/
     overflow: auto;
     display: block;
 }
@@ -112,14 +102,12 @@ ul{
     min-height: 300px;
     height: auto;
     display: inline-block;
-    /*The vertical-align CSS property sets vertical alignment of an inline, inline-block or table-cell box.*/
     vertical-align: top;
     background-color: #EFF3F6;
     border: 1px solid #EFF3F6;
     border-radius: 20px;
 }
 
-/*border-box tells the browser to account for any border and padding in the values you specify for an element's width and height. */
 .metricas{
     width: 90%;
     padding: 0px 20px;
@@ -136,10 +124,9 @@ ul{
     text-align: left;
 }
 
-/*The float property is used for positioning and formatting content e.g. let an image float left to the text in a container.*/
 footer{
     box-sizing: border-box;
-    position: absolute; /*-----OH*/
+    position: absolute;
     width: 100%;
     bottom: 0;
     text-align: center;

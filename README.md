@@ -30,6 +30,12 @@
 - **Tecnologías**: HTML, CSS y JavaScript (vanilla).
 - **Aprendizaje**: [Notion](https://www.notion.so/P1-Analizador-de-Textos-2366ec2287024ae397bbb358ecafc50e).
 - **Prototipo**: [Figma](https://www.figma.com/design/Ta7gMoQJfuiPvfCvKBipFS/Text-Analyzer?t=1pC5VLiJ5NOn7VYO-1).
+<iframe
+  height="450"
+  width="500"
+  src="https://www.figma.com/design/Ta7gMoQJfuiPvfCvKBipFS/Text-Analyzer?node-id=0-1&t=agiL8imGwuok6Grn-1"
+  allowfullscreen
+/>
 
 
 ## 2. Preámbulo
