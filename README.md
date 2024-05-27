@@ -58,7 +58,7 @@ clic en un botón.
 Durante este sprint busqué establecer la estructura básica de la web y desarrollar las funciones de conteo de palabras y carácteres. 
 Esta es una <i>línea de tiempo</i> de las tareas:
 <figure>
-  <img src="img/sprint1.png" alt="github projects timeline" width="500">
+  <img src="img/sprint1.png" alt="github projects timeline" width="700">
   <figcaption><i>Sprint 1 en Github Projects</i></figcaption>
 </figure>
 
@@ -73,18 +73,17 @@ Esta es una <i>línea de tiempo</i> de las tareas:
   - Creé la primera función para contar palabras luego de investigar sobre los diferentes métodos para manipular stings.
 
 ### Sprint 2
-Durante este sprint busqué establecer la estructura básica de la web y desarrollar las funciones de conteo de palabras y carácteres. 
+Durante este sprint busqué mejorar mi diseño al igual que poner mucho énfasis en las funciones de JS. Fue muy útil el uso de tests para validar mi progreso y el apoyo de las coachs en las OH.
 Esta es una <i>línea de tiempo</i> de las tareas:
 <figure>
-  <img src="img/sprint2.png" alt="github projects timeline" width="500">
+  <img src="img/sprint2.png" alt="github projects timeline" width="700">
   <figcaption><i>Sprint 2 en Github Projects</i></figcaption>
 </figure>
 
 * **Diseño**
 
   - Luego del feedback decidí mejorar mi diseño, por lo tanto modifiqué mi prototipo:
-!["Prototipo versión 1.2"](img/Prototype2.png)
-  - Para generar una mejor experiencia a la usuaria, pusé énfasis en el input y separé las métricas en una columna lateral. 
+!["Prototipo versión 1.2"](img/Prototype2.png) 
 * **HTML-CSS-JS**
   - Hice modificaciones en algunos elementos para cumplir con las pruebas de los tests.
   - Usé las propiedades CSS generadas en Figma para actualizar mi diseño.
