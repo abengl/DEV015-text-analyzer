@@ -60,7 +60,7 @@ Esta es una <i>línea de tiempo</i> de las tareas:
 <figure>
   <img src="img/sprint1.png" alt="github projects timeline" width="700">
   <figcaption><i>Sprint 1 en Github Projects</i></figcaption>
-</figure>
+</figure><br>
 
 * **Diseño**
 
@@ -78,7 +78,7 @@ Esta es una <i>línea de tiempo</i> de las tareas:
 <figure>
   <img src="img/sprint2.png" alt="github projects timeline" width="700">
   <figcaption><i>Sprint 2 en Github Projects</i></figcaption>
-</figure>
+</figure><br>
 
 * **Diseño**
 
