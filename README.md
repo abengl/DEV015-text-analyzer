@@ -58,7 +58,7 @@ clic en un botón.
 Durante este sprint busqué establecer la estructura básica de la web y desarrollar las funciones de conteo de palabras y carácteres. 
 Esta es una <i>línea de tiempo</i> de las tareas:
 <figure>
-  <img src="img/sprint1.png" alt="Alternative text" width="400">
+  <img src="img/sprint1.png" alt="github projects timeline" width="500">
   <figcaption><i>Sprint 1 en Github Projects</i></figcaption>
 </figure>
 
@@ -67,5 +67,28 @@ Esta es una <i>línea de tiempo</i> de las tareas:
   - Inicié elaborando un <i>prototipo inicial (wireframe)</i> en Figma basado en los requerimientos del projecto:
 !["Prototipo versión 1.1"](img/Prototype1.png)
   - Para generar una mejor experiencia a la usuaria, pusé énfasis en el input y separé las métricas en una columna lateral. 
-* **HTML**
-  - 
+* **HTML-CSS-JS**
+  - Armé la estructura básica siguiendo las recomendaciones del proyecto y el HTML semántico.
+  - Estudié sobre selectores y comencé a aplicar el box model y algunos estilos.
+  - Creé la primera función para contar palabras luego de investigar sobre los diferentes métodos para manipular stings.
+
+### Sprint 2
+Durante este sprint busqué establecer la estructura básica de la web y desarrollar las funciones de conteo de palabras y carácteres. 
+Esta es una <i>línea de tiempo</i> de las tareas:
+<figure>
+  <img src="img/sprint2.png" alt="github projects timeline" width="500">
+  <figcaption><i>Sprint 2 en Github Projects</i></figcaption>
+</figure>
+
+* **Diseño**
+
+  - Luego del feedback decidí mejorar mi diseño, por lo tanto modifiqué mi prototipo:
+!["Prototipo versión 1.2"](img/Prototype2.png)
+  - Para generar una mejor experiencia a la usuaria, pusé énfasis en el input y separé las métricas en una columna lateral. 
+* **HTML-CSS-JS**
+  - Hice modificaciones en algunos elementos para cumplir con las pruebas de los tests.
+  - Usé las propiedades CSS generadas en Figma para actualizar mi diseño.
+  - Completé las funciones e hice uso de selectores del DOM para poder conectarlas a los elementos HTML.
+  - Realicé pruebas de forma constante para asegurarme de cumplir con los requerimientos.
+  - Finalizo con el deploy de mi web en <i>Github Pages</i>.
+
