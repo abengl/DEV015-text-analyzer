@@ -58,8 +58,8 @@ clic en un botón.
 Durante este sprint busqué establecer la estructura básica de la web y desarrollar las funciones de conteo de palabras y carácteres. 
 Esta es una <i>línea de tiempo</i> de las tareas:
 <figure>
-  <img src="img/sprint1.png" alt="Alternative text">
-  <figcaption style="font-style: italic; color: gray;">Sprint 1</figcaption>
+  <img src="img/sprint1.png" alt="Alternative text" width="400">
+  <figcaption><i>Sprint 1 en Github Projects</i></figcaption>
 </figure>
 
 * **Diseño**
