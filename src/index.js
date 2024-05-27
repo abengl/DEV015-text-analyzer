@@ -49,5 +49,15 @@ function updateMetricas(){
 // Accedo al elemento <button> en el DOM
 const button = document.getElementById("reset-button");
 
-// Asigno un Event Listener para escuchar el evento "click" en el <button> y resetear el valor del TextArea
-button.addEventListener("click", () => { textArea.value = "" });
+// Asigno un Event Listener para escuchar el evento "click" en el <button> y resetear el valor del TextArea y las métricas
+button.addEventListener("click", resetData);
+
+function resetData() {
+  textArea.value = "";
+  wordCounterLi.textContent = "Palabras: 0";
+  charCounterLi.textContent = "Caracteres: 0";
+  numCounterLi.textContent = "Números: 0";
+  charWithoutSpacesCounterLi.textContent = "Caracteres sin Espacios: 0";
+  averageLengthCounterLi.textContent = "Promedio de Longitud: 0";
+  sumCounterLi.textContent = "Suma de Números: 0";
+}
