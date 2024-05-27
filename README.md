@@ -55,8 +55,17 @@ clic en un botón.
 ## 5. Desarrollo
 
 ### Sprint 1
+Durante este sprint busqué establecer la estructura básica de la web y desarrollar las funciones de conteo de palabras y carácteres. 
+Esta es una <i>línea de tiempo</i> de las tareas:
+<figure>
+  <img src="img/sprint1.png" alt="Alternative text">
+  <figcaption style="font-style: italic; color: gray;">Sprint 1</figcaption>
+</figure>
 
 * **Diseño**
 
   - Inicié elaborando un <i>prototipo inicial (wireframe)</i> en Figma basado en los requerimientos del projecto:
-
+!["Prototipo versión 1.1"](img/Prototype1.png)
+  - Para generar una mejor experiencia a la usuaria, pusé énfasis en el input y separé las métricas en una columna lateral. 
+* **HTML**
+  - 
