@@ -54,9 +54,9 @@ clic en un botón.
 
 ## 5. Desarrollo
 
-### Control de Versiones (Git y GitHub)
+### Sprint 1
 
-* **GitHub: Creación de cuenta y repos, configuración de llaves SSH**
+* **Diseño**
 
-  - [x] La estudiante creó una cuenta en Github.
+  - Inicié elaborando un <i>prototipo inicial (wireframe)</i> en Figma basado en los requerimientos del projecto:
 
