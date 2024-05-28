@@ -15,8 +15,9 @@
 - **Proyecto**: individual.
 - **Tiempo estimado**: 2 a 4 Sprints.
 - **Tecnologías**: HTML, CSS y JavaScript (vanilla).
-- **Aprendizaje**: [Notion](https://buttered-accordion-f01.notion.site/P1-Analizador-de-Textos-2366ec2287024ae397bbb358ecafc50e?pvs=4).
+- **Wiki de Aprendizaje**: [Notion](https://buttered-accordion-f01.notion.site/P1-Analizador-de-Textos-2366ec2287024ae397bbb358ecafc50e?pvs=4).
 - **Prototipo**: [Figma](https://www.figma.com/design/Ta7gMoQJfuiPvfCvKBipFS/Text-Analyzer?node-id=0-1&t=GmOdad4uQQkZBP1e-1).
+- **Github Pages**: [Text Analyzer](https://abengl.github.io/DEV015-text-analyzer/).
 
 
 ## 2. Contexto

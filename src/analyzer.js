@@ -43,7 +43,7 @@ const analyzer = {
   getNumberCount: (text) => {
     //TODO: esta función debe retornar cúantos números se encuentran en el parámetro `text` de tipo `string`.
     const textArray = text.split(" ");
-    const pattern = /^\d+(\.\d+\.?)?$/; // Este patrón identifica todo número entero o decimal que termine con un punto o no.
+    const pattern = /^\d+(\.\d+)?([.,])?$/ // Este patrón identifica todo número entero o decimal que termine con un punto/coma o no.
     let counter = 0;
 
     // Uso un bucle para recorrer cada palabra del array y verificar si contiene el patrón, de ser así incremento el contador
@@ -59,7 +59,7 @@ const analyzer = {
     //TODO: esta función debe retornar la suma de todos los números que se encuentran en el parámetro `text` de tipo `string`.
 
     const textArray = text.split(" ");
-    const pattern = /^\d+(\.\d+\.?)?$/; // Cualquier número entero (12) o decimal (1.2) que termine con un punto o no.
+    const pattern = /^\d+(\.\d+)?([.,])?$/ // Este patrón identifica todo número entero o decimal que termine con un punto/coma o no.
     let numTotal = 0;
     
     for (let i = 0; i < textArray.length; i++) {
